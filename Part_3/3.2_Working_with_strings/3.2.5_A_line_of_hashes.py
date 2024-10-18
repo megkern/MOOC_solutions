@@ -1,4 +1,5 @@
 # Programmiing Exercise: A line of hases
+# https://programming-24.mooc.fi/part-3/2-working-with-strings
 #
 # Please write a program which prints out a line of hash characters, 
 # the width of which is chosen by the user.
