@@ -1,0 +1,54 @@
+# Programming exercise: The sum of consecutive numbers, version 1
+# https://programming-24.mooc.fi/part-3/1-loops-with-conditions
+#
+# Please write a program which asks the user to type in a limit. 
+# The program then calculates the sum of consecutive numbers (1 + 2 + 3 + ...) 
+# until the sum is at least equal to the limit set by the user. 
+# The program should function as follows:
+# Limit: 2
+# 3
+# Limit: 10
+# 10
+
+up = int(input("Limit: "))
+x1 = 1
+sum = 0
+while sum < up:
+    sum += x1 # or sum = sum + x1
+    x1 += 1 # put this line before the sum line if you initialize sum at 1
+
+print(sum)
+
+# Notes:
+#
+# Limit: 1
+# 1 = 1
+#
+# Limit: 2
+# 1+2 = 3
+#
+# Limit: 3
+# 1+2 = 3
+#
+# Limit: 4
+# 1+2+3 = 6
+#
+# Limit: 5
+# 1+2+3 = 6 
+#
+# Limit: 6
+# 1+2+3 = 6 
+#
+# Limit: 7
+# 1+2+3+4 = 10
+#
+# Limit: 8
+# 1+2+3+4 = 10
+#
+# Limit: 9
+# 1+2+3+4 = 10
+#
+# Limit: 10
+# 1+2+3+4 = 10 
+#
+# ...
