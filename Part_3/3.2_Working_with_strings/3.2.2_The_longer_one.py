@@ -1,5 +1,5 @@
 # Programming exercise: The longer one
-# available from https://programming-24.mooc.fi/part-3/2-working-with-strings
+# https://programming-24.mooc.fi/part-3/2-working-with-strings
 #
 # Please write a program which asks the user for two strings and then 
 # prints out whichever is the longer of the two - that is, whichever has the more characters. 
