@@ -1,4 +1,5 @@
 # Programming exercise: Second and second to last characters
+# https://programming-24.mooc.fi/part-3/2-working-with-strings
 #
 # Please write a program which asks the user for a string. 
 # The program then prints out a message based on whether the 
