@@ -1,4 +1,5 @@
 # Programming exercise: Powers of two
+# https://programming-24.mooc.fi/part-3/1-loops-with-conditions
 #
 # Please write a program which asks the user to type in an upper limit. 
 # The program then prints out numbers so that each subsequent number is 
