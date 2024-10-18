@@ -1,4 +1,5 @@
 # Programming exercise: Numbers
+# https://programming-24.mooc.fi/part-3/1-loops-with-conditions
 #
 # Please write a program which asks the user for a number. 
 # The program then prints out all integer numbers greater than zero but smaller than the input.
