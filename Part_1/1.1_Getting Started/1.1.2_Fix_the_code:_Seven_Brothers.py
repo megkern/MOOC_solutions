@@ -1,3 +1,6 @@
+# Programming exercise: Fix the code: Seven Brothers
+# https://programming-24.mooc.fi/part-1/1-getting-started
+#
 # "Seitsemän veljestä" is one of the first novels ever written in Finnish. 
 # It is the story of seven orphaned brothers learning to make their way in the world 
 # (read more on Wikipedia).
